@@ -4,6 +4,7 @@
   "compilerOptions": {
     /* Visit https://aka.ms/tsconfig.json to read more about this file */
 
+    "types": ["node", "jest"],
     /* Completeness */
     "skipLibCheck": true                                 /* Skip type checking all .d.ts files. */
   }
